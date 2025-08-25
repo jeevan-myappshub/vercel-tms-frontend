@@ -311,8 +311,8 @@ function Sidebar() {
   const menuItems = [
     { path: "/", label: "Weekly Dashboard", icon: MdSpaceDashboard },
     { path: "/today", label: "Today's Timesheet", icon: Calendar },
-    { path: "/prev", label: "Previous Week", icon: History },
-    { path: "/rev", label: "Reviewer Dashboard", icon: CheckCircle },
+    { path: "/previous-week", label: "Previous Week", icon: History },
+    { path: "/reviwer", label: "Reviewer Dashboard", icon: CheckCircle },
     { path: "/reports", label: "Analytics", icon: SiGoogleanalytics },
     { path: "/projects", label: "Project Dashboard", icon: BiLibrary },
   ];
